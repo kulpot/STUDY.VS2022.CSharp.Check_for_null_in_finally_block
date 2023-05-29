@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_for_null_in_finally_block", "Check_for_null_in_finally_block\Check_for_null_in_finally_block.csproj", "{9F6AF1AF-A578-4244-9402-73CDBB63AB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6AF1AF-A578-4244-9402-73CDBB63AB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6AF1AF-A578-4244-9402-73CDBB63AB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6AF1AF-A578-4244-9402-73CDBB63AB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6AF1AF-A578-4244-9402-73CDBB63AB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7439E8A7-A98C-49D6-A891-6ED965D2D859}
+	EndGlobalSection
+EndGlobal
